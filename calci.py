@@ -1,2 +1,3 @@
 def calculator(op,a,b):
-    return 
+    if op=='*':
+        return a*b

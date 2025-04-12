@@ -1,6 +1,6 @@
 def calculator(op,a,b):
     if op=="+":
-        return a+b
+        return b+a
     if op=='-':
         return a-b
     if op=='*':
